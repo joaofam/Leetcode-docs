@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Page](README.md)
+* [Introduction](README.md)
+
+## Arrays
+
+* [Two Sum](arrays/two-sum.md)
